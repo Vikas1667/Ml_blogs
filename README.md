@@ -1,1 +1,1 @@
-# VickyAI.github.io
+# ML_blogs
